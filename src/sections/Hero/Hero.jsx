@@ -38,7 +38,7 @@ function Hero() {
         <h1>
           Akash
           <br />
-          Sundarrr
+          Sundar
         </h1>
         <h2>Software Developer</h2>
         <span>
@@ -56,7 +56,7 @@ function Hero() {
           With a passion for developing modern  Web apps for commercial
           businesses.
         </p>
-        <a href={CV} download>
+        <a href="">
           <button className="hover">Resume</button>
         </a>
       </div>
