@@ -38,7 +38,7 @@ function Hero() {
         <h1>
           Akash
           <br />
-          Sundar
+          Sundarrr
         </h1>
         <h2>Software Developer</h2>
         <span>
