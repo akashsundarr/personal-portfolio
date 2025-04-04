@@ -36,9 +36,9 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Akshay
+          Akash
           <br />
-          Sajii
+          Sundar
         </h1>
         <h2>Software Developer</h2>
         <span>
